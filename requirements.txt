@@ -1,3 +1,4 @@
 isort
 black
 flask
+flask-wtf
